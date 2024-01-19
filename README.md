@@ -1,8 +1,6 @@
 # terraform-aws
 Terraform AWS EC2 provisioning 
 
-## Hit the Star! ⭐
-If you are planning to use this Terraform repo for learning, please hit the star. Thanks!
 
 ## EC2 Instance Provisioning
 
